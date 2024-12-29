@@ -1,3 +1,8 @@
-# Live Currency Converter
+# React + Vite
 
-Developed on June 2024. The Currency Converter is a ReactJS app that converts currencies using live data fetched via an API. It leverages React Hooks for state management and side effects. A custom hook was created to simplify API calls and improve code reusability, offering a seamless conversion experience.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
